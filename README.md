@@ -1,6 +1,6 @@
 - 👋 Hi, my name Superhero-y.
-- A student from sztu. 
-- 👀 I am fond of orienteering, playing basketball, focusing on hot points.
+- 🧏‍♂️ A student from sztu. 
+- 👀 I am fond of orienteering, playing basketball, focusing on hot points from the World.
 - 🌱 I’m currently learning front end.
 - 📫 You can reach me by email(1183140624@qq.com)
 
