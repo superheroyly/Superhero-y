@@ -1,4 +1,7 @@
 - 👋 Hi, my name Superhero-y.
+- Why is the name?
+- Because I was interested in basketball and a little crazied about playing basketall in junior middle school period. 
+- At a time, I watched the NBA in CCTV5, I heared a song named Superheroes, which was powerful and made me fall in love for it.
 - 🧏‍♂️ A student from sztu. 
 - 👀 I am fond of orienteering, playing basketball, focusing on hot points from the World.
 - 🌱 I’m currently learning front end.
