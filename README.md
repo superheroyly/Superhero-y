@@ -4,7 +4,7 @@
 - 🦸‍♂️ At a time, I watched the NBA in CCTV5, I heared a song named Superheroes, which was powerful and made me fall in love with it.
 - 🧏‍♂️ A student from sztu. 
 - 👀 I am fond of orienteering, playing basketball, focusing on hot points from the World.
-- 🌱 I’m currently learning front end.
+- 🌱 I’m currently learning DL.
 - 📫 You can reach me by email(1183140624@qq.com)
 - 🧐 And  http://superheroy.xyz
 
