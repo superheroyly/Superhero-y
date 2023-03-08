@@ -1,11 +1,7 @@
-- 👋 Hi, my name Superhero-y.
-- ❓  Why is the name?
-- 🏀 Because I was interested in basketball and crazied about playing basketall in junior middle school period. 
-- 🦸‍♂️ At a time, I watched the NBA in CCTV5, I heared a song named Superheroes, which was filled with powerful and made me fall in love with it.
-- 🧏‍♂️ A student from SZTU. 
-- 👀 I am fond of orienteering, playing basketball, focusing on hot points from the World.
+- 👋 Hi, my name yangliuyi.
+- 🗺 I am fond of orienteering now. 
 - 🌱 I’m currently learning ML(Bio-Inspired Learning).
-- 📫 You can reach me by email(yhero11@163.com)
+- 📫 You can reach me by email(yhero11@126.com)
 - 🧐 
 
 <!---
