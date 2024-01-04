@@ -1,6 +1,4 @@
-- 👋 Hi, my name yangliuyi.
 - 🗺 I am fond of orienteering now. 
-- 🌱 I’m currently learning ML(Bio-Inspired Learning).
 - 📫 You can reach me by email(yhero11@126.com)
 - 🧐 
 
